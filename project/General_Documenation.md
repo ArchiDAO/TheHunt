@@ -20,5 +20,9 @@ General Documenation for the Hunt
     * exchange a 3d printed object
     * Stretch goal?
     * Use the cryptoeconomics to fund the creation of houses.
+    * Funding Research   ? / ?
 
-  * Funding Research   ? / ?
+
+**Priority for Testing.**
+  * NFT minting on Decentraland tesnet?
+  * Taking the NFTs and depositing the NFTs to then Minting Master NFT that signifies ownership of the PRVOK
