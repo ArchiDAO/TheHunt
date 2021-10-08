@@ -63,7 +63,6 @@ contract ERC1155PresetMinterPauser is Context, AccessControlEnumerable, ERC1155B
         bytes memory data
     ) public virtual {
         require(hasRole(MINTER_ROLE, _msgSender()), "ERC1155PresetMinterPauser: must have minter role to mint");
-
         _mint(to, id, amount, data);
     }
 
@@ -77,9 +76,9 @@ contract ERC1155PresetMinterPauser is Context, AccessControlEnumerable, ERC1155B
         bytes memory data
     ) public virtual {
         require(hasRole(MINTER_ROLE, _msgSender()), "ERC1155PresetMinterPauser: must have minter role to mint");
-
         _mintBatch(to, ids, amounts, data);
     }
+
 
     /**
      * @dev Pauses all token transfers.
@@ -95,6 +94,7 @@ contract ERC1155PresetMinterPauser is Context, AccessControlEnumerable, ERC1155B
         _pause();
     }
 
+
     /**
      * @dev Unpauses all token transfers.
      *
@@ -109,6 +109,7 @@ contract ERC1155PresetMinterPauser is Context, AccessControlEnumerable, ERC1155B
         _unpause();
     }
 
+
     /**
      * @dev See {IERC165-supportsInterface}.
      */
@@ -121,6 +122,7 @@ contract ERC1155PresetMinterPauser is Context, AccessControlEnumerable, ERC1155B
     {
         return super.supportsInterface(interfaceId);
     }
+
 
     function _beforeTokenTransfer(
         address operator,
