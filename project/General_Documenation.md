@@ -19,6 +19,6 @@ General Documenation for the Hunt
     * NFT as collectibles?
     * exchange a 3d printed object
     * Stretch goal?
-    * Use the cryptoeconomics to fund he creation of houses. 
+    * Use the cryptoeconomics to fund the creation of houses.
 
   * Funding Research   ? / ?
