@@ -15,5 +15,10 @@ General Documenation for the Hunt
   * Find good examples of ERC1155 frontend.
   * contact the gaming communities to set up interface meetings
   * consolidate the cryptoeconomics.
+    * minting & burning ?
+    * NFT as collectibles?
+    * exchange a 3d printed object
+    * Stretch goal?
+    * Use the cryptoeconomics to fund he creation of houses. 
 
-  
+  * Funding Research   ? / ?
