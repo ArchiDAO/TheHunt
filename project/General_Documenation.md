@@ -28,4 +28,4 @@ General Documenation for the Hunt
 **Priority for Testing.**
   * NFT minting on Decentraland tesnet?
   * Taking the NFTs and depositing the NFTs to then Minting Master NFT that signifies ownership of the PRVOK
-  * explore Crypto Funds. 
+  * explore Crypto Funds.
